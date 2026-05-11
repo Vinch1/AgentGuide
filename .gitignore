@@ -1,6 +1,6 @@
 # SpecStory auto-save files
 .specstory/
-
+.ds_store
 # Cursor IDE configuration
 .cursorindexingignore
 
